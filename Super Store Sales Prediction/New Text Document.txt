@@ -1,0 +1,2 @@
+https://github.com/AmineElHablani/Time-Series-Sales-Prediction/blob/main/monthly%20Sales%20forecasting.ipynb
+https://github.com/charcode123/SUPERSTORE-SALES-PREDICTION/blob/main/EDA/SUPERSOREEDA.ipynb
